@@ -7,7 +7,6 @@ module.exports = function(sequelize, DataTypes) {
         direccionVideo: DataTypes.STRING,
 	   generoMusical: DataTypes.STRING,
         fecha: DataTypes.INTEGER
-
       }
     );
   }
